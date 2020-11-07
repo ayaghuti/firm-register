@@ -89,3 +89,14 @@ footer {
   padding-top: 30px;
   background: linear-gradient(to right, grey, lightblue);
 }
+
+#home p{
+  font-size: xx-large;
+  font-weight: 800 !important;
+}
+
+#home ul{
+  font-size: x-large;
+  font-weight: 800 !important;
+  list-style-type: none;
+}
