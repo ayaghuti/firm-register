@@ -98,5 +98,5 @@ footer {
 #home ul{
   font-size: x-large;
   font-weight: 800 !important;
-  list-style-type: none;
+  list-style-type: none !important;
 }
